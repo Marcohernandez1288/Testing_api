@@ -17,7 +17,7 @@ Se deben instalar los siguientes programas:
 Java 8 o superior
 JDK de Java de la misma versión instalada
 Apache Maven 3.6.x
-Se recomienda instalar IntelliJ IDEA versión Community como entorno de desarrollo
+Se recomienda instalar IntelliJ IDEA versión Community como entorno de desarrollo.
 Se sugiere instalar Git Bash como consola para líneas de comando
 ---
 
